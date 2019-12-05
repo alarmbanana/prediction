@@ -1,0 +1,15 @@
+html, body {
+	background: url('pic/back.png') no-repeat center center fixed;
+    background-size: cover;
+	background-color: black;
+	padding-top: 4em;
+	color: white;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	text-align: center;
+	font-size: 1.5em;
+}
+
+button {
+	margin: 4em;
+	padding: 1em;
+}
